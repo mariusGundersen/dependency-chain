@@ -1,0 +1,25 @@
+{
+  "name": "dependency-chain",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mariusGundersen/dependency-chain",
+  "authors": [
+    "Marius Gundersen <me@mariusgundersen.net>"
+  ],
+  "description": "extend dependencies",
+  "main": "require.plugin.chain.js",
+  "keywords": [
+    "require",
+    "require.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "index.html",
+    "server.js",
+    "Vector",
+    "jQuery",
+    "knockout",
+    "mocking",
+    "package.json"
+  ]
+}
